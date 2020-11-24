@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 this file is created offline
-=======
-Hello friend
-Welcome to my website
->>>>>>> bf0b2b1ebae066422b234bfc447447af05b8225d
